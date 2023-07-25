@@ -1,0 +1,29 @@
+.Border img{
+    border: solid rgba(94, 215, 46, 0.747);
+    height:600px;
+    width:600px;
+}
+html{
+    background-color: rgba(69,69,69);
+}
+.Border {
+	float: left;
+    padding:5px;
+}
+
+.Border2 {
+    float: right;
+    padding:5px;
+}
+
+.Row {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+.Column {
+    content: "";
+	display: table;
+	clear: both;
+}
